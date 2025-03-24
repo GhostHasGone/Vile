@@ -1,2 +1,2 @@
 # Vile
-A Psych Horror Game
+A Psychological Horror Game
