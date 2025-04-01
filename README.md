@@ -1,6 +1,6 @@
 # Vile
 A Psychological Horror Game
 
-Runs in Terminal
-Must have Python installed and requirements installed
-pip install -r requirements.txt
+* Runs in Terminal<br/>
+* Must have Python installed and requirements installed<br/>
+* pip install -r requirements.txt
